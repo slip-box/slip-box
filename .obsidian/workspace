@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "30e47ea3507a0c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f43c073e2aecfc3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b44ad6ee5c4be99a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff73b3804e225442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311f5806b35f83e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4fc25e6bfeaf711",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74edd7026f8b751b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98bb4a832c0e600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e38edc816aba6f51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0f43c073e2aecfc3",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20210828213019.png",
+    "设计模式六大原则.md",
+    "人生算法.md",
+    "计算机哲学与生活.md",
+    "二维码及扫码登录.md",
+    "《代码整洁之道》.md"
+  ]
+}

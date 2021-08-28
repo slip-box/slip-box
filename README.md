@@ -1,8 +1,19 @@
 ## README
+Personal Slip Box
 
-- 一些读书笔记
-- 一些摘抄
-- 一些幼稚杂念
-- 甚至还有一些诗歌
+![[Pasted image 20210828213019.png]]
 
-多年后回望：有些早已被我摒弃、有些已成为我个人的一部分、有些依然是自己的奢望...
+
+![[Pasted image 20210828213653.png]]
+
+
+![[Pasted image 20210828214546.png]]
+
+
+![[Pasted image 20210828214632.png]]
+
+
+![[Pasted image 20210828223601.png]]
+
+
+![[Pasted image 20210828222621.png]]
