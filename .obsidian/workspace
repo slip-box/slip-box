@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4068b65daa78af1b",
+        "id": "f91a533ac2cb26a3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机科学/SSL.md",
+            "file": "计算机科学/安全攻防/前端代码混淆.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74edd7026f8b751b",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机科学/SSL.md",
+                "file": "计算机科学/安全攻防/前端代码混淆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4068b65daa78af1b",
+  "active": "f91a533ac2cb26a3",
   "lastOpenFiles": [
+    "计算机科学/安全攻防/前端代码混淆.md",
     "SSL.md",
     "计算机科学/node源码/Crypto.md",
     "计算机科学/《代码整洁之道》.md",
@@ -96,7 +98,6 @@
     "计算机科学/SDK设计原则.md",
     "计算机科学/编译原理.md",
     "计算机科学/http  （HyperText Transfer Protocol）.md",
-    "计算机科学/C10K和C1000K问题.md",
-    "计算机科学/事件循环.md"
+    "计算机科学/C10K和C1000K问题.md"
   ]
 }
