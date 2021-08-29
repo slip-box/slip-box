@@ -4,7 +4,7 @@
 
 Secure Sockets Layer，这是其全名，他的作用是协议，定义了用来对网络发出的数据进行加密的格式和规则
 
-OpenSSL是对SSL协议的实现
+OpenSSL是对[[SSL]]协议的实现
 
 Node.js 是完全采用 OpenSSL 进行加密的，其TLS HTTPS 服务器模块和 Crypto 加密模块都是通过 C++ 在底层调用 OpenSSL 。
 

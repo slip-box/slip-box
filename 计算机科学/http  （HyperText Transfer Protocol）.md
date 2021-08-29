@@ -1,6 +1,6 @@
 ## http  （HyperText Transfer Protocol）
 超文本传输协议，其实准确的称呼为超文本转移协议，
-目前主流的HTTP协议版本为HTTP/1.1
+目前主流的[[HTTP]]协议版本为HTTP/1.1
 修订与1997年1月，当前虚心修订版为RFC2616。
 
 属于TCP/IP协议族的子集

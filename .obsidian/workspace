@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0f43c073e2aecfc3",
+        "id": "4068b65daa78af1b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "计算机科学/SSL.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "计算机科学/SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f43c073e2aecfc3",
+  "active": "4068b65daa78af1b",
   "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20210828213019.png",
-    "设计模式六大原则.md",
-    "人生算法.md",
-    "计算机哲学与生活.md",
-    "二维码及扫码登录.md",
-    "《代码整洁之道》.md"
+    "SSL.md",
+    "计算机科学/node源码/Crypto.md",
+    "计算机科学/《代码整洁之道》.md",
+    "设计模式.md",
+    "计算机科学/设计模式六大原则.md",
+    "计算机科学/SDK设计原则.md",
+    "计算机科学/编译原理.md",
+    "计算机科学/http  （HyperText Transfer Protocol）.md",
+    "计算机科学/C10K和C1000K问题.md",
+    "计算机科学/事件循环.md"
   ]
 }
